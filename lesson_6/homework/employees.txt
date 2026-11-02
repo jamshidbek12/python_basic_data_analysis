@@ -1,0 +1,12 @@
+2001, HOn Dse, Data entry, 2000
+2002, AOn Dse, Software Engineer, 3600
+2003, SOn Dse, Web developer, 8799
+2004, DOn Dse, Software Engineer, 5600
+2005, FOn Dse, Software Engineer, 6600
+2006, GOn Dse, Software Engineer, 7600
+2007, BOn Dse, Software Engineer, 8600
+2008, HOn Dse, Software Engineer, 3300
+2009, HOn Dse, Software Engineer, 4500
+2011, HOn Dse, Software Engineer, 80000
+2012, John Doe, Designer, 15000
+2013, Sara Kroft, Designer, 54000

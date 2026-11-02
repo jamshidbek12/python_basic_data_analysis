@@ -1,0 +1,14 @@
+1001, HOn Dse, Data entry, 2000
+1002, AOn Dse, Software Engineer, 3600
+1003, SOn Dse, Web developer, 8799
+1004, DOn Dse, Software Engineer, 5600
+1005, FOn Dse, Software Engineer, 6600
+1006, GOn Dse, Software Engineer, 7600
+1007, BOn Dse, Software Engineer, 8600
+1008, HOn Dse, Software Engineer, 3300
+1009, HOn Dse, Software Engineer, 4500
+1011, HOn Dse, Software Engineer, 80000
+1012, John Doe, Designer, 15000
+1013, Sara Kroft, Designer, 54000
+1016, Sam Louris, Journalist, 55500
+1017, Dmitriy Cholkonov, Designer, 75000
